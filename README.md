@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Baghdadi Mouad</h1>
 <h3 align="center">- 👀 I’m a passinate CS student interested about Artificial Intelligence and Data Science</h3>
 
+- - 🌱 I’m currently learning more and more about **LLMs and RAG systems**
+
 - 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **mouadbaghdadi2002@gmail.com**
