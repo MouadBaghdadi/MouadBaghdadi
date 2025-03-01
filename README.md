@@ -1,7 +1,10 @@
 <h3 align="center">- Hi, I'm Baghdadi Mouad I’m a passionate CS student interested about Artificial Intelligence and Data Science</h3>
--  I’m currently diving deeper into **LLMs and RAG systems**
--  Ask me about **Data Science**
--  How to reach me **mouadbaghdadi2002@gmail.com**
+
+-  I’m currently diving deeper into LLMs and RAG systems
+
+-  Ask me about Data Science
+  
+-  How to reach me mouadbaghdadi2002@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
